@@ -1,0 +1,24 @@
+{
+  "amount": 0,
+  "countGoods": 0,
+  "contents": [
+    {
+      "id_product": 123,
+      "product_name": "Ноутбук",
+      "price": 45600,
+      "quantity": 1
+    },
+    {
+      "id_product": 124,
+      "product_name": "Mouse",
+      "price": 1000,
+      "quantity": 1
+    }
+
+      "id_product": 126,
+      "product_name": "Keybord",
+      "price": 5000,
+      "quantity": 1
+    }
+  ]
+}
